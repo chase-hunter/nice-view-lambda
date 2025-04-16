@@ -68,8 +68,8 @@ const lv_img_dsc_t crystal_01 = {
     .header.cf = LV_IMG_CF_INDEXED_1BIT,
     .header.always_zero = 0,
     .header.reserved = 0,
-    .header.w = 69,
-    .header.h = 68,
+    .header.w = 80,
+    .header.h = 69,
     .data_size = 620,
     .data = crystal_01_map,
 };
